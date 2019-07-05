@@ -1,0 +1,6 @@
+C:\Users\Per-Arne\Documents\HOLOEmu\bin\Debug\Holograph Emulator.exe
+C:\Users\Per-Arne\Documents\HOLOEmu\bin\Debug\Holograph Emulator.pdb
+C:\Users\Per-Arne\Documents\HOLOEmu\obj\Debug\Holograph Emulator.csprojAssemblyReference.cache
+C:\Users\Per-Arne\Documents\HOLOEmu\obj\Debug\Holograph Emulator.csproj.CoreCompileInputs.cache
+C:\Users\Per-Arne\Documents\HOLOEmu\obj\Debug\Holograph Emulator.exe
+C:\Users\Per-Arne\Documents\HOLOEmu\obj\Debug\Holograph Emulator.pdb
