@@ -1,7 +1,9 @@
+#HOLO Emulator Revisited
+
 This based on Nillus's HoloGraph Emu Revision 48
 
 
-README from Nillus:
+# README from Nillus:
 Yeah posting this
 http://www.smouch.net/lol
 in the Holograph Emulator thread in RZ resulted in my 3rd infraction = week banned.
@@ -32,3 +34,8 @@ I might move to Otaku Studios though, Aaron might be a fag but the moderators kn
 
  aDios RaGEZONE,
 Nillus
+
+
+# My Reasons
+I found out that i want to test and debug and find out emulation of Habbo v21-26.
+ODBC 5.1 needed! and maybe Visual Studio of anykind.
